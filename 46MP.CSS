@@ -1,0 +1,16 @@
+li{
+    display:inline;
+    margin:125px;
+    font-size:20px;
+    
+    }
+
+ body{
+background-color:skyblue;
+
+    }
+    li:hover{
+        background-color: crimson;
+        color:aquamarine;
+font-size:50px;
+    }
